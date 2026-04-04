@@ -1,3 +1,15 @@
+body {
+  font-family: "Roboto" sans-serif;
+}
+
 .page-section {
   background-color: #f4f4fd;
+}
+
+.page-title {
+  background-color: #2e2f42;
+}
+
+.page-footer {
+  background-color: #2e2f42;
 }
