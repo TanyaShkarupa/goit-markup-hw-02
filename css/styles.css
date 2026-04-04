@@ -2,6 +2,13 @@ body {
   font-family: "Roboto" sans-serif;
 }
 
+.page-nav {
+  color: #2e2f42;
+}
+
+address {
+  color: #434455;
+}
 .page-section {
   background-color: #f4f4fd;
 }
@@ -11,7 +18,21 @@ body {
   color: white;
 }
 
+button {
+  background-color: #4d5ae5;
+  color: white;
+}
+
+h2,
+h3 {
+  color: #2e2f42;
+}
+
+p {
+  color: #434455;
+}
+
 .page-footer {
   background-color: #2e2f42;
-  color: white;
+  color: #f4f4fd;
 }
