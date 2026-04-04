@@ -24,11 +24,11 @@
   color: #2e2f42;
 }
 
-.social-links.links:hover {
+.links:hover {
   color: #404bbf;
 }
 
-.social-links.links:active {
+.links:active {
   color: #404bbf;
 }
 
@@ -44,11 +44,11 @@
   color: #434455;
 }
 
-.address-links.add-link:hover {
+.add-link:hover {
   color: #404bbf;
 }
 
-.address-links.add-link:active {
+.add-link:active {
   color: #404bbf;
 }
 
