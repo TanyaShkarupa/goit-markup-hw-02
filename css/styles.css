@@ -24,7 +24,11 @@
   color: #2e2f42;
 }
 
-.links :hover {
+.social-links.links:hover {
+  color: #404bbf;
+}
+
+.social-links.links:active {
   color: #404bbf;
 }
 
@@ -40,11 +44,16 @@
   color: #434455;
 }
 
-.add-link :hover {
+.address-links.add-link:hover {
   color: #404bbf;
 }
+
+.address-links.add-link:active {
+  color: #404bbf;
+}
+
 body {
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto";
   background-color: #ffffff;
   color: #434455;
 }
