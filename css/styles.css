@@ -20,7 +20,8 @@
   color: #2e2f42;
 }
 
-.links:hover {
+.links:hover,
+.links:focus {
   color: #404bbf;
 }
 
@@ -78,7 +79,8 @@ body {
   text-align: center;
 }
 
-.button:hover {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
 }
 
@@ -124,6 +126,14 @@ body {
 }
 
 .team {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.team-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
