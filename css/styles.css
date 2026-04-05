@@ -41,7 +41,8 @@
   color: #434455;
 }
 
-.add-link:hover {
+.add-link:hover,
+.add-link:focus {
   color: #404bbf;
 }
 
@@ -114,6 +115,10 @@ body {
 
 .page-section {
   background-color: #f4f4fd;
+}
+
+.team-card {
+  background-color: #ffffff;
 }
 
 .section-h {
