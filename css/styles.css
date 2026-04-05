@@ -93,13 +93,19 @@ body {
   background-color: #404bbf;
 }
 
-h2,
-h3 {
+.description {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-p {
+.section2 {
+  line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
+  font-size: 16px;
 }
 
 .page-footer {
