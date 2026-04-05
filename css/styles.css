@@ -64,12 +64,32 @@ body {
 
 .page-title {
   background-color: #2e2f42;
-  color: white;
+  color: #ffffff;
 }
 
-button {
+.title {
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+.button {
   background-color: #4d5ae5;
   color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #404bbf;
+}
+
+.button:active {
+  background-color: #404bbf;
 }
 
 h2,
