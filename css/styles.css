@@ -20,7 +20,7 @@
   color: #2e2f42;
 }
 
-.links:hover {
+.social-links:hover {
   color: #404bbf;
 }
 
@@ -114,7 +114,7 @@ body {
   background-color: #f4f4fd;
 }
 
-.section3 {
+.section-h {
   line-height: 1.11;
   color: #2e2f42;
   letter-spacing: 0.02em;
