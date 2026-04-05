@@ -133,7 +133,40 @@ body {
   color: #434455;
 }
 
+.portfolio {
+  line-height: 11.1;
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+  font-size: 36px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.portfolio2 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfoliop {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .page-footer {
   background-color: #2e2f42;
+  color: #f4f4fd;
+}
+
+.footerp {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
